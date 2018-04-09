@@ -10,4 +10,7 @@ class PagesController < ApplicationController
 
   def privacy
   end
+
+  def project_status
+  end
 end
